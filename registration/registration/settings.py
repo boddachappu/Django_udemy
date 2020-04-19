@@ -27,7 +27,7 @@ SECRET_KEY = '!h_cya*$#+9i4e*z9x1q-^+2r75ft^vh5*spk4%c*zr^fp4n7='
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["boddachappu.pythonanywhere.com",]
 
 
 # Application definition
